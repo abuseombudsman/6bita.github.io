@@ -27,8 +27,8 @@ text-decoration: none; /*underline;*/
 position: relative;
 margin-bottom: 1em;
 /*font-family: Monaco,Consolas,"Lucida Console",monospace;*/
-/*font-size: .75em;*/
-/*line-height: 1.8;*/
+font-size: .75em;
+line-height: 20px;
 border: 1px solid #e9dcbe;
 border-radius: 4px;
 background-color: #fafafa;
