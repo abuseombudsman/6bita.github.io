@@ -26,7 +26,7 @@ color: #61613f;/*f19669; /*FF7800*/
 text-decoration: none; /*underline;*/
 position: relative;
 margin-bottom: 1em;
-/*font-family: Monaco,Consolas,"Lucida Console",monospace;*/
+font-family: Monaco,Consolas,"Lucida Console",monospace;
 font-size: .75em;
 line-height: 20px;
 border: 1px solid #e9dcbe;
@@ -60,6 +60,16 @@ top: -2px;
 background: url('images/a47.gif') no-repeat;
 width: 76px;
 height: 74px;
+padding: 8px;
+}
+
+img.gurbaani-tv
+{
+position: relative;
+top: -2px;
+background: url('images/a26.gif') no-repeat;
+width: 146px;
+height: 75px;
 padding: 8px;
 }
 
